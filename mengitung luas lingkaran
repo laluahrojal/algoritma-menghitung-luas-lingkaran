@@ -1,0 +1,12 @@
+ hitung_luas_lingkaran(r):
+    # Menghitung luas lingkaran menggunakan rumus pi * r^2
+    luas = math.pi * r ** 2
+    return luas
+
+# Input jari-jari lingkaran
+r = float(input("Masukkan jari-jari lingkaran: "))*
+
+# proses fungsi untuk menghitung luas lingkaran
+luas = hitung_luas_lingkaran(r)*
+
+# Output hasil luas lingkaran
